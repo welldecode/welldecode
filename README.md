@@ -7,7 +7,7 @@
 
 - 📫 Como chegar até mim **wellingtonalfredo550@gmail.com** 
 <br/><br/> 
-<h3 align="left" > Contato 🤝 </h3>
+## Contact
 
  <p align="left" style="background:yellow"> 
 <a href="https://linkedin.com/in/wellington-alfredo" target="_blank">
