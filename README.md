@@ -19,11 +19,11 @@
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/wellington-alfredo/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a> 
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/></a> 
 	 
-      
-      </div>
-
+         <a style="margin-left: 10px;"  target="_blank" href="https://www.instagram.com/wellington.henriqueee/">
+			<img src="https://img.icons8.com/color/40/000000/instagram--v3.png"/></a> 
+      </div> 
 </p>
 
 ### Blogs posts
