@@ -1,65 +1,67 @@
- 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Mayk Brito</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+Saurabh</a></h1>
+<h3 align="center">A passionate Mobile App developer from Pune India &#127470;&#127475</h3>
 
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
-- 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat)
+<p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
 
-- ▶️ I (not) regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
 
-- ⚡ Fun fact **Oneye 😜**
+- 🌱 I’m currently Working on Mobile App(React-Native)
 
-- 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev)
+- 🤝 I’m available for freelancing.
 
-<!--
+- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
 
-<br><br>
+- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
 
-## 🛠 &nbsp;Tech Stack
+- 💬 Ask me about **Reactjs & React-Native**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+- 📫 How to reach me **saurabhchavan052@gmail.com**
 
-<br><br>
+- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+<br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-## ⚙️ &nbsp;GitHub Analytics
+<p align="center">
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
+					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
+				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
+					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+      </div>
+
 </p>
--->
 
-<br><br>
+### Blogs posts
 
-## Contact
+<!-- BLOG-POST-LIST:START -->
 
-<p align="left" style="background:yellow">
-<a href="https://codepen.io/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
-<a href="https://twitter.com/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://youtube.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
-</p> 
+- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
+- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
+- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
+
+Last Edited on: 08/08/2022
