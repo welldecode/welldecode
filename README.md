@@ -12,9 +12,9 @@
 - 🤝 I’m available for freelancing.   
 
 - 📫 Como chegar até mim **wellingtonalfredo550@gmail.com** 
-<br/>
+<br/><br/><br/><br/><br/><br/><br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contato 🤝 </h3>
-<br/><br/><br/>
+ 
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
