@@ -14,6 +14,6 @@
   <img align="center" src="https://img.shields.io/badge/-wellington_alfredo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/wellington.henriquee" target="_blank">
- <img align="center" src="https://img.shields.io/badge/wellington-henriqueee-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-wellington.henriqueee-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a> 
 </p 
